@@ -13,8 +13,8 @@ Welcome to the Online Movie Booking System repository! This project aims to revo
 - **User Interface:**
   - Browse available movies with detailed descriptions.
   - View trailers directly on our platform for an immersive experience.
-  - Select preferred showtimes and seats conveniently.
-  - Secure payment gateway integration for seamless transactions.
+  - Select preferred showtimes conveniently.
+    
 
 ## Technologies Used
 
